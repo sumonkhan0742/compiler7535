@@ -260,9 +260,9 @@ System.out.print("\n\n");
 
 int a=3;
 
-Keyword:  int
+Keyword: 
 
-Math Operator: 
+Math Operator: =
 
 Logical Operator: 
 
@@ -270,8 +270,9 @@ Symbol:
 
 Header File: 
 
-Numeric Value: 
+Numeric Value: 3
 
-Variables:  a=3;
+Variables:  a;
 
-Functions:  */
+Functions: 
+*/
